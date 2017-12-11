@@ -1,0 +1,16 @@
+{
+  "name": "payments-ui",
+  "description": "mpesa user interface",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
